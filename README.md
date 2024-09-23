@@ -1,4 +1,5 @@
-
+Computer engineering student at UNIR. 
+Passionate about the world of computing and technology. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-garcia-del-moral/) 

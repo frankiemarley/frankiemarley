@@ -1,5 +1,9 @@
 Computer engineering student at UNIR. 
-Passionate about the world of computing and technology. 
+Passionate about the world of computing and technology. My journey in tech is driven by a deep fascination with solving complex problems through innovative solutions.
+Recently, I expanded my skill set through an intensive Machine Learning bootcamp at 4Geeks Academy, gaining hands-on experience with NumPy, Pandas, Matplotlib, and scikit-learn. This led to exciting projects such as web scraping, API integration, and deploying ML models using Flask and Streamlit.
+My Github includes a Descriptive Genre Generator, where I developed a deep learning model to classify and predict music genres using Spotify data, showcasing my ability to work with neural networks and API integration.
+I'm continuously expanding my knowledge through courses in AWS, ChatGPT Prompt Engineering, and Generative AI on Google Cloud. My goal is to leverage my combined background in computer engineering, software development, and machine learning to contribute to cutting-edge technologies that make a meaningful impact. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-garcia-del-moral/) 
